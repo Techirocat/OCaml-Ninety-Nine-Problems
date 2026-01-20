@@ -8,5 +8,5 @@ let encode list =
     List.rev (aux 0 [] list);;
 
 (*O as cria um apelido para o padrão à esquerda, permitindo
-que a variável t armazene a lista inteira que começa em b ao 
-mesmo tempo que o padrão a decompõe.*)
+ que a variável t armazene a lista inteira que começa em b ao
+  mesmo tempo que o padrão a decompõe.*)
